@@ -1,0 +1,31 @@
+body {
+  background-color: #E6FFFD;
+}
+
+.Main h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #0079FF;
+}
+
+.Main div {
+  margin-bottom: 10px;
+}
+
+.Main label {
+  font-weight: bold;
+  
+  color: #DB005B;
+}
+
+.Main input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+}
+
+p {
+  color: #DB005B;
+  font-weight: bold;
+}
